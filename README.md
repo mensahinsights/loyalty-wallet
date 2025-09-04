@@ -51,7 +51,7 @@ Prerequisites
 
 Clone and run
 ```bash
-git clone <your-repo-url>.git loyalty-wallet
+[git clone <your-repo-url>.git loyalty-wallet](https://github.com/mensahinsights/loyalty-wallet.git)
 cd loyalty-wallet
 docker compose up -d --build
 ```
